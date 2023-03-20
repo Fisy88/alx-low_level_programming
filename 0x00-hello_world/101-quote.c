@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /**
- * main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19"
+ * main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19",
  * followed by newline, to standard error.
- * Return always 1.
+ * Return: Always 1.
  */
 
 int main(void)
